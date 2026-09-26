@@ -3,8 +3,8 @@
 <img src="https://raw.githubusercontent.com/miimoyy/miimoyy/main/assets/tagline.svg" width="100%"/>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=miimoyy&color=0ea5e9&style=flat&label=PROFILE+VIEWS"/>
-  <a href="https://rullyportfolio.page.gd"><img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=miimoyy&color=10b981&style=flat&label=PROFILE+VIEWS"/>
+  <a href="https://rullyportfolio.page.gd"><img src="https://img.shields.io/badge/Portfolio-10B981?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
   <a href="mailto:rullyalislami07@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/miimoyy"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
@@ -31,7 +31,7 @@
   <img src="https://img.shields.io/badge/MikroTik_MTCNA-293239?style=flat-square&logo=mikrotik&logoColor=white"/>
   <img src="https://img.shields.io/badge/OSPF/BGP-0f172a?style=flat-square"/>
   <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST_API-0EA5E9?style=flat-square&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST_API-10B981?style=flat-square&logo=fastapi&logoColor=white"/>
 </p>
 
 ---
@@ -63,7 +63,7 @@ Demos and full case notes at **[rullyportfolio.page.gd](https://rullyportfolio.p
 
 <p align="center">
   <img src="https://img.shields.io/badge/MTCNA-MikroTik-293239?style=for-the-badge&logo=mikrotik&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DevOps-Bootcamp-0EA5E9?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DevOps-Bootcamp-10B981?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux_SysAdmin-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Dicoding-Web_Dev-181717?style=for-the-badge&logo=codecrafters&logoColor=white"/>
 </p>
