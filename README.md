@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/miimoyy/miimoyy/main/assets/banner-animated.svg" width="100%"/>
 
-<p align="center"><i>APIs that don't go down — from localhost to production.</i></p>
+<img src="https://raw.githubusercontent.com/miimoyy/miimoyy/main/assets/tagline.svg" width="100%"/>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=miimoyy&color=0ea5e9&style=flat&label=PROFILE+VIEWS"/>
@@ -13,78 +13,19 @@
 
 ### About Me
 
-```js
-const rully = {
-  location: "Bogor, Indonesia",
-  education: "S1 Teknologi Informasi @ UBSI",
-  backend: ["Node.js", "Laravel", "RESTful APIs", "JWT/OAuth2"],
-  databases: ["MySQL", "SQLite", "Firebase"],
-  infra: ["Linux", "Docker", "Nginx", "Ansible"],
-  networking: ["MikroTik", "OSPF/BGP", "Subnetting", "TCP/IP"],
-  currentlyLearning: ["PostgreSQL", "Prisma", "Redis"],
-  motto: "Build for uptime, not just localhost."
-};
-```
+> I build backends that survive production — because mine have lived in one.
 
-I bridge two worlds: **software** and **infrastructure**. My backends have run inside a real production data center — so I think about deployment, monitoring, and network config from line one, not as an afterthought.
+| I build | I run | I protect |
+|---|---|---|
+| RESTful APIs with **Node.js** and **Laravel** on **MySQL** — JWT auth, clean code, documented endpoints. | **Linux** servers and **Docker** containers behind **Nginx** — deployed, monitored, kept alive. | **MikroTik** firewalls, NAT, **OSPF/BGP** routing and subnetting — networks that stay reachable. |
+
+**Right now:** S1 Teknologi Informasi at UBSI · leveling up PostgreSQL, Prisma and Redis · open to backend roles.
 
 ---
 
 ### Tech Stack
 
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="48"/><br/><sub><b>Node.js</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=php&theme=dark" width="48"/><br/><sub><b>PHP</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=laravel&theme=dark" width="48"/><br/><sub><b>Laravel</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=js&theme=dark" width="48"/><br/><sub><b>JavaScript</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=react&theme=dark" width="48"/><br/><sub><b>React</b></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=html&theme=dark" width="48"/><br/><sub><b>HTML5</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=css&theme=dark" width="48"/><br/><sub><b>CSS3</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="48"/><br/><sub><b>MySQL</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=sqlite&theme=dark" width="48"/><br/><sub><b>SQLite</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=firebase&theme=dark" width="48"/><br/><sub><b>Firebase</b></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=docker&theme=dark" width="48"/><br/><sub><b>Docker</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=linux&theme=dark" width="48"/><br/><sub><b>Linux</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nginx&theme=dark" width="48"/><br/><sub><b>Nginx</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git&theme=dark" width="48"/><br/><sub><b>Git</b></sub>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="48"/><br/><sub><b>C++</b></sub>
-    </td>
-  </tr>
-</table>
+<img src="https://raw.githubusercontent.com/miimoyy/miimoyy/main/assets/skills.svg" width="100%"/>
 
 <p align="center">
   <img src="https://img.shields.io/badge/MikroTik_MTCNA-293239?style=flat-square&logo=mikrotik&logoColor=white"/>
