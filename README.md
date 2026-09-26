@@ -1,14 +1,9 @@
 <img src="https://raw.githubusercontent.com/miimoyy/miimoyy/main/assets/terminal.svg" width="100%"/>
 
-`RULLY ALISLAMI — BOGOR, INDONESIA`
-
-# Rully Alislami
-
-Backend developer who also runs the servers his code lives on.
-
-<img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-fafafa?style=flat-square&logo=statuspal&logoColor=black"/>
+<p align="center">
 <a href="https://rullyportfolio.page.gd"><img src="https://img.shields.io/badge/Portfolio-rullyportfolio.page.gd-111111?style=flat-square&logo=googlechrome&logoColor=white"/></a>
 <a href="mailto:rullyalislami07@gmail.com"><img src="https://img.shields.io/badge/Gmail-rullyalislami07-111111?style=flat-square&logo=gmail&logoColor=white"/></a>
+</p>
 
 ---
 
