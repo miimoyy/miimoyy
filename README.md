@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/miimoyy/miimoyy/main/assets/banner-animated.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/miimoyy/miimoyy/main/assets/hero.svg" width="100%"/>
 
 <img src="https://raw.githubusercontent.com/miimoyy/miimoyy/main/assets/tagline.svg" width="100%"/>
 
@@ -11,7 +11,7 @@
 
 ---
 
-### About Me
+### 01 · About
 
 > I build backends that survive production — because mine have lived in one.
 
@@ -23,7 +23,7 @@
 
 ---
 
-### Tech Stack
+### 02 · Stack
 
 <img src="https://raw.githubusercontent.com/miimoyy/miimoyy/main/assets/skills.svg" width="100%"/>
 
@@ -36,30 +36,30 @@
 
 ---
 
-### Featured Builds
+### 03 · Selected Work
 
-| Project | Stack | Highlight |
+| Project | Stack | Notes |
 |---|---|---|
-| **[job-bot](https://github.com/miimoyy/job-bot)** | Go · Groq · Gemini · SQLite | Job-board scraper + AI CV matching + apply dashboard |
-| **Portal Data Aset** | Node.js · SQLite | Asset tracking — rack map, in/out dates, suspend/terminate states |
+| **[job-bot](https://github.com/miimoyy/job-bot)** | Go · Groq · Gemini · SQLite | Job-board scraper with AI CV matching and an apply dashboard |
+| **Portal Data Aset** | Node.js · SQLite | Asset tracking — rack map, in/out dates, suspend and terminate states |
 | **Cable Route Manager** | Laravel · MySQL | RESTful API mapping every cable to device to client |
 | **Apotek Online** | Laravel · Docker | Catalog-to-checkout ordering platform, containerized |
-| **IoT Power Monitor** | ESP32 · C++ · MySQL | Real-time current sensing + Telegram alerts |
+| **IoT Power Monitor** | ESP32 · C++ · MySQL | Real-time current sensing with Telegram alerts |
 
-Demos and full story at **[rullyportfolio.page.gd](https://rullyportfolio.page.gd)**
+Demos and full case notes at **[rullyportfolio.page.gd](https://rullyportfolio.page.gd)** — every project above is documented there.
 
 ---
 
-### Experience
+### 04 · Experience
 
 **Network & Server Operations — PT Interlink Data Center**
 - Server-room monitoring: temperature, power draw and cooling-efficiency analysis
-- Hands-on troubleshooting: MikroTik firewall, NAT, DHCP, static routing
-- Built a real-time IoT power monitor (ESP32 + SCT013) for efficiency analysis
+- Hands-on troubleshooting: MikroTik firewall, NAT, DHCP and static routing
+- Built a real-time IoT power monitor (ESP32 + SCT013) used for efficiency analysis
 
 ---
 
-### Certifications
+### 05 · Certifications
 
 <p align="center">
   <img src="https://img.shields.io/badge/MTCNA-MikroTik-293239?style=for-the-badge&logo=mikrotik&logoColor=white"/>
@@ -70,20 +70,11 @@ Demos and full story at **[rullyportfolio.page.gd](https://rullyportfolio.page.g
 
 ---
 
-### Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=miimoyy&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
-</p>
-
-### Stats
+### 06 · Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=miimoyy&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" height="170"/>
   <img src="https://streak-stats.demolab.com?user=miimoyy&hide_border=true&theme=tokyonight" height="170"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=miimoyy&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miimoyy&layout=donut&hide_border=true&theme=tokyonight"/>
@@ -91,4 +82,4 @@ Demos and full story at **[rullyportfolio.page.gd](https://rullyportfolio.page.g
 
 ---
 
-<p align="center"><i>Thanks for stopping by — let's build something that stays up.</i></p>
+<p align="center"><i>Bogor, Indonesia — let's build something that stays up.</i></p>
