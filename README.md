@@ -27,11 +27,30 @@ Currently finishing S1 Teknologi Informasi at UBSI · learning PostgreSQL, Prism
 
 ## Selected Work
 
-- **[job-bot](https://github.com/miimoyy/job-bot)** — job-board scraper (Go) with AI CV matching and an apply dashboard.
-- **Portal Data Aset** — Node.js + SQLite asset tracking: rack map, in/out dates, suspend and terminate states.
-- **Cable Route Manager** — Laravel + MySQL RESTful API mapping every cable to device to client.
-- **Apotek Online** — Laravel + Docker catalog-to-checkout ordering platform.
-- **IoT Power Monitor** — ESP32 + C++ real-time current sensing with Telegram alerts.
+### [job-bot](https://github.com/miimoyy/job-bot)
+Scrapes Glints, Jobstreet and KitaLulus, scores every job against my CV with AI (Groq primary, Gemini fallback), and queues the good ones in a local dashboard for manual apply — no mass auto-apply.
+
+<img src="https://img.shields.io/badge/Go-1f1f23?style=flat-square&logo=go&logoColor=00ADD8"/> <img src="https://img.shields.io/badge/Groq-1f1f23?style=flat-square&logo=groq&logoColor=white"/> <img src="https://img.shields.io/badge/Gemini-1f1f23?style=flat-square&logo=googlegemini&logoColor=4285F4"/> <img src="https://img.shields.io/badge/SQLite-1f1f23?style=flat-square&logo=sqlite&logoColor=003B57"/>
+
+### Portal Data Aset
+Backend for tracking client assets inside a data center: rack location map, client in/out dates, and terminate / suspend / hold service states — so staff know exactly where every asset sits.
+
+<img src="https://img.shields.io/badge/Node.js-1f1f23?style=flat-square&logo=node.js&logoColor=339933"/> <img src="https://img.shields.io/badge/SQLite-1f1f23?style=flat-square&logo=sqlite&logoColor=003B57"/>
+
+### Cable Route Manager
+RESTful API documenting every cable route — which cable goes to which device and which client — cutting manual tracing time during infrastructure troubleshooting.
+
+<img src="https://img.shields.io/badge/Laravel-1f1f23?style=flat-square&logo=laravel&logoColor=FF2D20"/> <img src="https://img.shields.io/badge/MySQL-1f1f23?style=flat-square&logo=mysql&logoColor=4479A1"/>
+
+### Apotek Online
+Online pharmacy ordering platform from product catalog to checkout, deployed containerized.
+
+<img src="https://img.shields.io/badge/Laravel-1f1f23?style=flat-square&logo=laravel&logoColor=FF2D20"/> <img src="https://img.shields.io/badge/Docker-1f1f23?style=flat-square&logo=docker&logoColor=2496ED"/> <img src="https://img.shields.io/badge/SQLite-1f1f23?style=flat-square&logo=sqlite&logoColor=003B57"/>
+
+### IoT Power Monitor
+Real-time mains current monitoring with an ESP32 and SCT013 sensor, Telegram alerts past threshold — built for server power-efficiency analysis.
+
+<img src="https://img.shields.io/badge/ESP32-1f1f23?style=flat-square&logo=espressif&logoColor=white"/> <img src="https://img.shields.io/badge/C++-1f1f23?style=flat-square&logo=cplusplus&logoColor=00599C"/> <img src="https://img.shields.io/badge/MySQL-1f1f23?style=flat-square&logo=mysql&logoColor=4479A1"/>
 
 Documented with demos at [rullyportfolio.page.gd](https://rullyportfolio.page.gd).
 
