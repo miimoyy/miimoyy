@@ -48,7 +48,4 @@ Server-room monitoring and cooling-efficiency analysis · MikroTik troubleshooti
 
 ## Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=miimoyy&show_icons=true&hide_border=true&theme=github_dark" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miimoyy&layout=compact&hide_border=true&theme=github_dark" height="150"/>
-</p>
+<img src="https://raw.githubusercontent.com/miimoyy/miimoyy/main/assets/pacman.svg" width="100%"/>
