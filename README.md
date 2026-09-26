@@ -1,8 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:0ea5e9&height=220&section=header&text=Rully%20Alislami&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%E2%80%A2%20Network%20%26%20Server%20Operations&descSize=18&descAlignY=62" width="100%"/>
+<img src="https://raw.githubusercontent.com/miimoyy/miimoyy/main/assets/header.svg" width="100%"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1200&color=38BDF8&center=true&width=600&lines=APIs+that+don't+go+down+%E2%9A%A1;Node.js+%2F+Laravel+%2F+MySQL+%2F+Docker;From+localhost+to+production+%F0%9F%9A%80;Networks%2C+servers+%26+clean+code+%F0%9F%9B%A0%EF%B8%8F" />
-</p>
+<p align="center"><i>APIs that don't go down — from localhost to production.</i></p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=miimoyy&color=0ea5e9&style=flat&label=PROFILE+VIEWS"/>
@@ -110,10 +108,4 @@ I bridge two worlds: **software** and **infrastructure**. My backends have run i
 
 ---
 
-### 🐍 Watch my contributions get eaten
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/miimoyy/miimoyy/output/github-snake.svg" width="100%"/>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:0ea5e9&height=110&section=footer" width="100%"/>
+<p align="center"><i>Thanks for stopping by — let's build something that stays up. 🚀</i></p>

@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#020617"/>
+      <stop offset="0.55" stop-color="#0f172a"/>
+      <stop offset="1" stop-color="#164e63"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.85" cy="0.4" r="0.55">
+      <stop offset="0" stop-color="#0ea5e9" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#0ea5e9" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#38bdf8" stroke-opacity="0.07" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1280" height="320" fill="url(#bg)"/>
+  <rect width="1280" height="320" fill="url(#grid)"/>
+  <rect width="1280" height="320" fill="url(#glow)"/>
+  <circle cx="1120" cy="60" r="130" fill="#0ea5e9" opacity="0.10"/>
+  <circle cx="1180" cy="260" r="90" fill="#22d3ee" opacity="0.08"/>
+  <circle cx="120" cy="290" r="70" fill="#0ea5e9" opacity="0.08"/>
+  <rect x="0" y="0" width="1280" height="6" fill="#0ea5e9"/>
+  <rect x="0" y="314" width="1280" height="6" fill="#0ea5e9" opacity="0.6"/>
+  <text x="80" y="138" font-family="'Segoe UI', Arial, sans-serif" font-size="68" font-weight="800" fill="#ffffff">Rully Alislami</text>
+  <text x="82" y="188" font-family="'Segoe UI', Arial, sans-serif" font-size="27" font-weight="600" fill="#67e8f9">Backend Developer &#8226; Network &#38; Server Operations</text>
+  <text x="82" y="230" font-family="'Segoe UI', Arial, sans-serif" font-size="20" fill="#94a3b8">Node.js &#160;&#160;/&#160;&#160; Laravel &#160;&#160;/&#160;&#160; MySQL &#160;&#160;/&#160;&#160; Docker &#160;&#160;/&#160;&#160; MikroTik &#160;&#160;/&#160;&#160; Bogor, Indonesia</text>
+  <g font-family="'Segoe UI', Arial, sans-serif" font-size="19" font-weight="700">
+    <rect x="950" y="120" width="250" height="52" rx="26" fill="none" stroke="#38bdf8" stroke-width="2"/>
+    <text x="1075" y="154" text-anchor="middle" fill="#e0f2fe">OPEN TO WORK</text>
+    <rect x="950" y="186" width="250" height="52" rx="26" fill="#0ea5e9"/>
+    <text x="1075" y="220" text-anchor="middle" fill="#020617">HIRE ME &#9889;</text>
+  </g>
+</svg>
