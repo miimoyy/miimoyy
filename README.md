@@ -1,94 +1,119 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Rully%20Alislami&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:0ea5e9&height=220&section=header&text=Rully%20Alislami&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%E2%80%A2%20Network%20%26%20Server%20Operations&descSize=18&descAlignY=62" width="100%"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2C5364&center=true&width=500&lines=Backend+Developer;Network+%26+Server+Operations;Node.js+%2F+Laravel+%2F+Docker;I+ship+backends+that+stay+up." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1200&color=38BDF8&center=true&width=600&lines=APIs+that+don't+go+down+%E2%9A%A1;Node.js+%2F+Laravel+%2F+MySQL+%2F+Docker;From+localhost+to+production+%F0%9F%9A%80;Networks%2C+servers+%26+clean+code+%F0%9F%9B%A0%EF%B8%8F" />
 </p>
 
 <p align="center">
-  <a href="https://rullyportfolio.page.gd"><img src="https://img.shields.io/badge/Portfolio-rullyportfolio.page.gd-2c5364?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
-  <a href="mailto:rullyalislami07@gmail.com"><img src="https://img.shields.io/badge/Email-rullyalislami07@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Bogor-Indonesia-0f2027?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+  <img src="https://komarev.com/ghpvc/?username=miimoyy&color=0ea5e9&style=flat&label=PROFILE+VIEWS"/>
+  <a href="https://rullyportfolio.page.gd"><img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+  <a href="mailto:rullyalislami07@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/miimoyy"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
 
-### 👨‍💻 About Me
+### 💫 About Me
 
-Backend developer who also speaks network. I design RESTful APIs with **Node.js** and **Laravel**, back them with **MySQL/SQLite**, and run them on **Linux + Docker** behind properly configured **MikroTik** routing. My code has lived in a real production data center — so I build for uptime, not just localhost.
+```js
+const rully = {
+  location: "Bogor, Indonesia 🇮🇩",
+  education: "S1 Teknologi Informasi @ UBSI",
+  backend: ["Node.js", "Laravel", "RESTful APIs", "JWT/OAuth2"],
+  databases: ["MySQL", "SQLite", "Firebase"],
+  infra: ["Linux", "Docker", "Nginx", "Ansible"],
+  networking: ["MikroTik", "OSPF/BGP", "Subnetting", "TCP/IP"],
+  currentlyLearning: ["PostgreSQL", "Prisma", "Redis"],
+  motto: "Build for uptime, not just localhost."
+};
+```
 
-- 🔭 Studying S1 Teknologi Informasi @ UBSI while shipping backend projects
-- 🛠️ Daily drivers: Node.js · Laravel · MySQL · Docker · Linux · MikroTik
-- 🌱 Currently leveling up: PostgreSQL · Prisma/Sequelize · Redis
-- ⚡ Fun fact: I once tracked data-center power draw with an ESP32 and a current sensor
-
----
-
-### 🧰 Tech Arsenal
-
-**Backend**
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-API-0f2027?logo=fastapi&logoColor=white)
-
-**Frontend**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-
-**Database**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
-
-**Infra & Network**
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white)
-![MikroTik](https://img.shields.io/badge/MikroTik_OSPF/BGP-293239?logo=mikrotik&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+I bridge two worlds: **software** and **infrastructure**. My backends have run inside a real production data center — so I think about deployment, monitoring, and network config from line one, not as an afterthought.
 
 ---
 
-### 🚀 Featured Builds
+### 🛠️ Arsenal
 
-| Project | Stack | What it does |
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,php,laravel,js,react,html,css,mysql,sqlite,firebase,docker,linux,nginx,git,cpp&theme=dark" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/MikroTik_MTCNA-293239?style=flat-square&logo=mikrotik&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OSPF/BGP-0f172a?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST_API-0EA5E9?style=flat-square&logo=fastapi&logoColor=white"/>
+</p>
+
+---
+
+### 🔥 Featured Builds
+
+<p align="center">
+  <a href="https://github.com/miimoyy/job-bot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=miimoyy&repo=job-bot&theme=tokyonight&hide_border=true" width="49%"/></a>
+  <a href="https://github.com/miimoyy/projek-sistem-monitoring"><img src="https://github-readme-stats.vercel.app/api/pin/?username=miimoyy&repo=projek-sistem-monitoring&theme=tokyonight&hide_border=true" width="49%"/></a>
+</p>
+<p align="center">
+  <a href="https://github.com/miimoyy/lsp-apotek"><img src="https://github-readme-stats.vercel.app/api/pin/?username=miimoyy&repo=lsp-apotek&theme=tokyonight&hide_border=true" width="49%"/></a>
+  <a href="https://github.com/miimoyy/sewa-mobil"><img src="https://github-readme-stats.vercel.app/api/pin/?username=miimoyy&repo=sewa-mobil&theme=tokyonight&hide_border=true" width="49%"/></a>
+</p>
+
+| 🏗️ Project | 🧪 Stack | ✨ Highlight |
 |---|---|---|
-| [job-bot](https://github.com/miimoyy/job-bot) | Go · Groq · Gemini · SQLite | Job-board scraper (Glints/Jobstreet/KitaLulus) with AI CV matching + local apply dashboard |
-| Portal Data Aset | Node.js · SQLite | Asset tracking backend — rack locations, client in/out dates, terminate/suspend/hold states |
-| Cable Route Manager | Laravel · MySQL | RESTful API documenting every cable → device → client mapping for fast troubleshooting |
-| Apotek Online | Laravel · Docker | Full ordering platform, catalog to checkout, containerized deploy |
-| IoT Power Monitor | ESP32 · C++ · MySQL | Real-time current monitoring with Telegram threshold alerts |
+| **job-bot** | Go · Groq · Gemini · SQLite | Job-board scraper + AI CV matching + apply dashboard |
+| **Portal Data Aset** | Node.js · SQLite | Asset tracking — rack map, in/out dates, suspend/terminate states |
+| **Cable Route Manager** | Laravel · MySQL | RESTful API mapping every cable → device → client |
+| **Apotek Online** | Laravel · Docker | Catalog-to-checkout ordering platform, containerized |
+| **IoT Power Monitor** | ESP32 · C++ · MySQL | Real-time current sensing + Telegram alerts |
 
-👉 Live demos & more on my [portfolio](https://rullyportfolio.page.gd)
+🎬 Demos & full story → **[rullyportfolio.page.gd](https://rullyportfolio.page.gd)**
 
 ---
 
 ### 💼 Experience
 
 **Network & Server Operations — PT Interlink Data Center**
-- Ran server-room monitoring (temperature, power draw) and cooling-efficiency analysis
-- Troubleshooted network gear hands-on: MikroTik firewall, NAT, DHCP, static routing
-- Built a real-time IoT power monitor (ESP32 + SCT013) used for efficiency analysis
+- 🌡️ Server-room monitoring: temperature, power draw & cooling-efficiency analysis
+- 🔧 Hands-on troubleshooting: MikroTik firewall, NAT, DHCP, static routing
+- 📡 Built a real-time IoT power monitor (ESP32 + SCT013) for efficiency analysis
 
 ---
 
 ### 🏅 Certifications
 
-`MTCNA` · `DevOps Engineer Bootcamp` · `Ansible Automation` · `Linux System Administration` · `Docker Fundamental` · `Dicoding Web Programming` · `Digitalent Data Analyst`
+<p align="center">
+  <img src="https://img.shields.io/badge/MTCNA-MikroTik-293239?style=for-the-badge&logo=mikrotik&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DevOps-Bootcamp-0EA5E9?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux_SysAdmin-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Dicoding-Web_Dev-181717?style=for-the-badge&logo=codecrafters&logoColor=white"/>
+</p>
 
 ---
 
-### 📊 GitHub Stats
+### 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=miimoyy&show_icons=true&hide_border=true&theme=graywhite" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=miimoyy&hide_border=true&theme=graywhite" height="165"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miimoyy&layout=compact&hide_border=true&theme=graywhite"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=miimoyy&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer" width="100%"/>
+### 📊 Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=miimoyy&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=miimoyy&hide_border=true&theme=tokyonight" height="170"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=miimoyy&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miimoyy&layout=donut&hide_border=true&theme=tokyonight"/>
+</p>
+
+---
+
+### 🐍 Watch my contributions get eaten
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/miimoyy/miimoyy/output/github-snake.svg" width="100%"/>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:0ea5e9&height=110&section=footer" width="100%"/>
