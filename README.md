@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/miimoyy/miimoyy/main/assets/header.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/miimoyy/miimoyy/main/assets/banner-animated.svg" width="100%"/>
 
 <p align="center"><i>APIs that don't go down — from localhost to production.</i></p>
 
