@@ -11,11 +11,11 @@
 
 ---
 
-### 💫 About Me
+### About Me
 
 ```js
 const rully = {
-  location: "Bogor, Indonesia 🇮🇩",
+  location: "Bogor, Indonesia",
   education: "S1 Teknologi Informasi @ UBSI",
   backend: ["Node.js", "Laravel", "RESTful APIs", "JWT/OAuth2"],
   databases: ["MySQL", "SQLite", "Firebase"],
@@ -30,11 +30,62 @@ I bridge two worlds: **software** and **infrastructure**. My backends have run i
 
 ---
 
-### 🛠️ Arsenal
+### Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,php,laravel,js,react,html,css,mysql,sqlite,firebase,docker,linux,nginx,git,cpp&theme=dark" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="48"/><br/><sub><b>Node.js</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=php&theme=dark" width="48"/><br/><sub><b>PHP</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=laravel&theme=dark" width="48"/><br/><sub><b>Laravel</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=js&theme=dark" width="48"/><br/><sub><b>JavaScript</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=react&theme=dark" width="48"/><br/><sub><b>React</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=html&theme=dark" width="48"/><br/><sub><b>HTML5</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=css&theme=dark" width="48"/><br/><sub><b>CSS3</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="48"/><br/><sub><b>MySQL</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=sqlite&theme=dark" width="48"/><br/><sub><b>SQLite</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=firebase&theme=dark" width="48"/><br/><sub><b>Firebase</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=docker&theme=dark" width="48"/><br/><sub><b>Docker</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=linux&theme=dark" width="48"/><br/><sub><b>Linux</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nginx&theme=dark" width="48"/><br/><sub><b>Nginx</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git&theme=dark" width="48"/><br/><sub><b>Git</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="48"/><br/><sub><b>C++</b></sub>
+    </td>
+  </tr>
+</table>
+
 <p align="center">
   <img src="https://img.shields.io/badge/MikroTik_MTCNA-293239?style=flat-square&logo=mikrotik&logoColor=white"/>
   <img src="https://img.shields.io/badge/OSPF/BGP-0f172a?style=flat-square"/>
@@ -44,39 +95,30 @@ I bridge two worlds: **software** and **infrastructure**. My backends have run i
 
 ---
 
-### 🔥 Featured Builds
+### Featured Builds
 
-<p align="center">
-  <a href="https://github.com/miimoyy/job-bot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=miimoyy&repo=job-bot&theme=tokyonight&hide_border=true" width="49%"/></a>
-  <a href="https://github.com/miimoyy/projek-sistem-monitoring"><img src="https://github-readme-stats.vercel.app/api/pin/?username=miimoyy&repo=projek-sistem-monitoring&theme=tokyonight&hide_border=true" width="49%"/></a>
-</p>
-<p align="center">
-  <a href="https://github.com/miimoyy/lsp-apotek"><img src="https://github-readme-stats.vercel.app/api/pin/?username=miimoyy&repo=lsp-apotek&theme=tokyonight&hide_border=true" width="49%"/></a>
-  <a href="https://github.com/miimoyy/sewa-mobil"><img src="https://github-readme-stats.vercel.app/api/pin/?username=miimoyy&repo=sewa-mobil&theme=tokyonight&hide_border=true" width="49%"/></a>
-</p>
-
-| 🏗️ Project | 🧪 Stack | ✨ Highlight |
+| Project | Stack | Highlight |
 |---|---|---|
-| **job-bot** | Go · Groq · Gemini · SQLite | Job-board scraper + AI CV matching + apply dashboard |
+| **[job-bot](https://github.com/miimoyy/job-bot)** | Go · Groq · Gemini · SQLite | Job-board scraper + AI CV matching + apply dashboard |
 | **Portal Data Aset** | Node.js · SQLite | Asset tracking — rack map, in/out dates, suspend/terminate states |
-| **Cable Route Manager** | Laravel · MySQL | RESTful API mapping every cable → device → client |
+| **Cable Route Manager** | Laravel · MySQL | RESTful API mapping every cable to device to client |
 | **Apotek Online** | Laravel · Docker | Catalog-to-checkout ordering platform, containerized |
 | **IoT Power Monitor** | ESP32 · C++ · MySQL | Real-time current sensing + Telegram alerts |
 
-🎬 Demos & full story → **[rullyportfolio.page.gd](https://rullyportfolio.page.gd)**
+Demos and full story at **[rullyportfolio.page.gd](https://rullyportfolio.page.gd)**
 
 ---
 
-### 💼 Experience
+### Experience
 
 **Network & Server Operations — PT Interlink Data Center**
-- 🌡️ Server-room monitoring: temperature, power draw & cooling-efficiency analysis
-- 🔧 Hands-on troubleshooting: MikroTik firewall, NAT, DHCP, static routing
-- 📡 Built a real-time IoT power monitor (ESP32 + SCT013) for efficiency analysis
+- Server-room monitoring: temperature, power draw and cooling-efficiency analysis
+- Hands-on troubleshooting: MikroTik firewall, NAT, DHCP, static routing
+- Built a real-time IoT power monitor (ESP32 + SCT013) for efficiency analysis
 
 ---
 
-### 🏅 Certifications
+### Certifications
 
 <p align="center">
   <img src="https://img.shields.io/badge/MTCNA-MikroTik-293239?style=for-the-badge&logo=mikrotik&logoColor=white"/>
@@ -87,13 +129,13 @@ I bridge two worlds: **software** and **infrastructure**. My backends have run i
 
 ---
 
-### 🏆 Trophies
+### Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=miimoyy&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
 </p>
 
-### 📊 Stats
+### Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=miimoyy&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" height="170"/>
@@ -108,4 +150,4 @@ I bridge two worlds: **software** and **infrastructure**. My backends have run i
 
 ---
 
-<p align="center"><i>Thanks for stopping by — let's build something that stays up. 🚀</i></p>
+<p align="center"><i>Thanks for stopping by — let's build something that stays up.</i></p>
