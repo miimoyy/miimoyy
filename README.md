@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/miimoyy/miimoyy/main/assets/terminal.svg" width="100%"/>
+
 `RULLY ALISLAMI — BOGOR, INDONESIA`
 
 # Rully Alislami

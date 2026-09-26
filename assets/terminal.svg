@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="440" viewBox="0 0 1280 440">
+  <defs>
+    <linearGradient id="tbg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#050505"/>
+      <stop offset="1" stop-color="#0b0b0c"/>
+    </linearGradient>
+    <radialGradient id="tglow" cx="0.5" cy="0.45" r="0.6">
+      <stop offset="0" stop-color="#10b981" stop-opacity="0.13"/>
+      <stop offset="1" stop-color="#10b981" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="tgrid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M 48 0 L 0 0 0 48" fill="none" stroke="#ffffff" stroke-opacity="0.03" stroke-width="1"/>
+    </pattern>
+    <clipPath id="typeclip">
+      <rect x="152" y="132" width="0" height="32">
+        <animate attributeName="width" from="0" to="200" dur="1.8s" begin="1.1s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/>
+      </rect>
+    </clipPath>
+  </defs>
+
+  <rect width="1280" height="440" fill="url(#tbg)"/>
+  <rect width="1280" height="440" fill="url(#tgrid)"/>
+  <ellipse cx="640" cy="210" rx="560" ry="220" fill="url(#tglow)">
+    <animate attributeName="opacity" values="0.6;1;0.6" dur="7s" repeatCount="indefinite"/>
+  </ellipse>
+  <rect x="0" y="0" width="1280" height="3" fill="#10b981" opacity="0.8"/>
+  <rect x="0" y="437" width="1280" height="3" fill="#10b981" opacity="0.35"/>
+  <g stroke="#3f3f46" stroke-width="2">
+    <path d="M 30 26 h 14 M 37 19 v 14"/>
+    <path d="M 1236 26 h 14 M 1243 19 v 14"/>
+    <path d="M 30 400 h 14 M 37 393 v 14"/>
+    <path d="M 1236 400 h 14 M 1243 393 v 14"/>
+  </g>
+
+  <!-- terminal window -->
+  <rect x="90" y="34" width="1100" height="372" rx="14" fill="#070708" stroke="#232326" stroke-width="1.5"/>
+  <line x1="90" y1="78" x2="1190" y2="78" stroke="#232326" stroke-width="1.5"/>
+  <circle cx="120" cy="56" r="7" fill="#f87171"/>
+  <circle cx="144" cy="56" r="7" fill="#fbbf24"/>
+  <circle cx="168" cy="56" r="7" fill="#34d399"/>
+  <text x="196" y="62" font-family="Consolas, monospace" font-size="16" fill="#52525b">rully@prod: ~</text>
+  <circle cx="1162" cy="56" r="6" fill="#34d399">
+    <animate attributeName="opacity" values="1;0.3;1" dur="1.8s" repeatCount="indefinite"/>
+  </circle>
+
+  <g font-family="Consolas, monospace" font-size="22">
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.3s" fill="freeze"/>
+      <text x="124" y="124" fill="#34d399">$ whoami</text>
+    </g>
+    <g clip-path="url(#typeclip)">
+      <text x="152" y="160" fill="#fafafa" font-weight="700">Rully Alislami</text>
+    </g>
+    <rect x="152" y="138" width="13" height="24" fill="#34d399" opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.1s" begin="1.1s" fill="freeze"/>
+      <animate attributeName="opacity" values="1;0;1" dur="1s" begin="3.0s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="200 0" dur="1.8s" begin="1.1s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/>
+    </rect>
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="3.1s" fill="freeze"/>
+      <text x="124" y="200" fill="#34d399">$ role --show</text>
+    </g>
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="3.8s" fill="freeze"/>
+      <text x="124" y="236" fill="#d4d4d8">Backend Developer · Network &amp; Server Ops</text>
+    </g>
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="4.6s" fill="freeze"/>
+      <text x="124" y="276" fill="#34d399">$ motto</text>
+    </g>
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="5.3s" fill="freeze"/>
+      <text x="124" y="312" fill="#fafafa">APIs that don't go down —</text>
+    </g>
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="5.9s" fill="freeze"/>
+      <text x="124" y="348" fill="#a1a1aa">from localhost to production.</text>
+    </g>
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="6.7s" fill="freeze"/>
+      <text x="124" y="384" fill="#34d399">$ status</text>
+      <circle cx="248" cy="376" r="6" fill="#34d399">
+        <animate attributeName="opacity" values="1;0.3;1" dur="1.6s" repeatCount="indefinite"/>
+      </circle>
+      <text x="264" y="384" fill="#34d399">open to work</text>
+      <rect x="412" y="364" width="13" height="24" fill="#34d399" opacity="0">
+        <animate attributeName="opacity" from="0" to="1" dur="0.1s" begin="7.3s" fill="freeze"/>
+        <animate attributeName="opacity" values="1;0;1" dur="1s" begin="7.4s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+  </g>
+</svg>
